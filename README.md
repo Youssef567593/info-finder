@@ -9,9 +9,7 @@ A simple Python tool for ethical IP address and phone number information lookup.
 Run these commands to install and use the tool:
 
 ```bash
-git clone
-https://github.com/Youssef567593/info-finder
-
+git clone https://github.com/Youssef567593/info-finder.git
 
 cd info-finder
 
