@@ -10,10 +10,7 @@ Run these commands to install and use the tool:
 
 ```bash
 git clone
----
 https://github.com/Youssef567593/info-finder
----
-finder.git
 ---
 cd info-finder
 ---
