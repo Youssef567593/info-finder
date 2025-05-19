@@ -1,5 +1,5 @@
-#!/usr/bin/env python3
-import request
+#!/data/data/com.termux/files/usr/bin/python3
+import requests
 
 def ip_info(ip):
     url = f"http://ip-api.com/json/{ip}"
