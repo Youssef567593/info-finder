@@ -11,9 +11,12 @@ Run these commands to install and use the tool:
 ```bash
 git clone
 https://github.com/Youssef567593/info-finder
----
+
+
 cd info-finder
----
+
+
 bash install.sh
----
+
+
 infofinder
