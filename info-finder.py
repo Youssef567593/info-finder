@@ -1,4 +1,5 @@
-import requests
+#!/usr/bin/env python3
+import request
 
 def ip_info(ip):
     url = f"http://ip-api.com/json/{ip}"
